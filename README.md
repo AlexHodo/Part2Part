@@ -1,4 +1,5 @@
-# Part2Part - CTP/IP file transfer in C++
+# Part2Part 
+> TCP/IP, P2P file sharing Server-Client pair of applications written in C++ for UNIX OS using the SQLite DBMS
 
 ### Usage
 
